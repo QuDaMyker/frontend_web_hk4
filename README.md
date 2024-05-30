@@ -7,8 +7,8 @@
 ## GIỚI THIỆU ĐỒ ÁN
 
 - **Đề tài:** Mắt kính thời trang - MATVIET - Laravel Backend
-- **Repository BACKEND:** [Phát triển ứng dụng web - IS207.O13 - Backend](https://github.com/duonguwu/backend_web_hk4)
-- **Repository FRONTEND:** [Phát triển ứng dụng web - IS207.O13 - Frontend](https://github.com/duonguwu/frontend_web_hk4)
+- **Repository BACKEND:** [Phát triển ứng dụng web - IS207.O13 - Backend](https://github.com/QuDaMyker/backend_web_hk4)
+- **Repository FRONTEND:** [Phát triển ứng dụng web - IS207.O13 - Frontend](https://github.com/QuDaMyker/frontend_web_hk4)
 
 ## CÔNG NGHỆ SỬ DỤNG
 
